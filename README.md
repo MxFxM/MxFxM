@@ -1,3 +1,10 @@
+### I’m currently working on:
+- OpenCV AI Competition 2021
+- Digital Pen
+
+### A list of things I want to do:
+- OPAmp audio amplifier
+
 ### Donate?
 Monero: 
 44AUd4a9CufhKW2DHMvopu8qEgHrVArpvMoJnJxmeLKaUQtpYzvdZGhKRZQx8pqqxHbgCxaTjYM87gjhnwCd2psmAuFL3kP
