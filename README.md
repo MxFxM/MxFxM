@@ -1,9 +1,8 @@
 ### I’m currently working on:
 - OpenCV AI Competition 2021
-- ADSampler
 
 ### A list of things I want to do:
-- OPAmp audio amplifier
+- 
 
 ### Donate?
 Monero: 
