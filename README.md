@@ -1,5 +1,5 @@
 ### I’m currently working on:
-- OpenCV AI Competition 2021
+- 
 
 ### A list of things I want to do:
 - 
