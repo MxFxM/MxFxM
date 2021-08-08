@@ -18,14 +18,15 @@ Für 1 Flasche Doppelkorn
 
 ## Zubereitung
 
-1. Die Walnüsse pflücken, solange die Schale im inneren sich noch nicht gebildet hat. Das ist Ende Juni, Anfang Juli.
+1. Die Walnüsse pflücken, solange die Schale im Inneren sich noch nicht gebildet hat. Das ist Ende Juni, Anfang Juli.
 1. Die Nüsse werden mit der Schale in kleine Stücke geschnitten, z.B. Achtel, und in das Gefäs gegeben.
 1. Die Nelke mahlen, falls nicht so gekauft. In das Gefäs geben.
 1. Den Zimt in kleine Scheibchen schneiden, so dass die Oberfläche vergrösert wird. Dann auch in das Gefäs geben.
 1. Zuletzt den Zucker und den Alkohol dazugeben.
-1. Das Gefäs luftdicht verschlossen.
+1. Das Gefäs luftdicht verschliessen.
 1. Alles mindestens 4 Wochen lang dunkel und warm lagern. Dabei durch gelegentliches Schwenken das Ganze ein wenig durchmischen.
 1. Nach der Zeit alles durch ein Baumwolltuch und ein Sieb filtern. Die Reste können ausgedrückt werden.
+1. Wahrscheinlich muss der Likör noch länger reifen. Das lässt sich an einer grünen Farbe oder grünem Geschmack leicht erkennen. Die Farbe sollte dunkelbraun sein.
 
 ## Tipps
 
