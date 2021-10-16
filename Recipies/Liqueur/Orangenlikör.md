@@ -5,7 +5,7 @@
 Für 1 Flasche Doppelkorn
 
 - 7 (25%) BIO Orangen, unbehandelt
-- 750g (25%) Kandiszucker karamelisiert
+- 500g (25%) Kandiszucker karamelisiert
 - 0,7L (25%) Doppelkorn 38%
 - 750ml (25%) Wasser
 
