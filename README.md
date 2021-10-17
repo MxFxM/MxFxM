@@ -1,7 +1,10 @@
 ### I’m currently working on:
+- Configurator for surveillance camera streams
+- 8x8 ToF sensor board
 - 
 
 ### A list of things I want to do:
+- Sound direction detection
 - 
 
 ### Donate?
