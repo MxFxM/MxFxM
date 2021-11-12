@@ -3,4 +3,5 @@
 1. Rambling effectively is a skill, because you have to know something about every topic
 1. While you can believe anything, actually knowing something only comes from experience
 1. Being able to steer a conversation in a direction you want to can be used, but also misused
-1. 
+1. LEGO only allows for as much creativity as was designed into the bricks
+1. For every HMI, there exists one single "perfect" (exception: people with disabilities) solution
