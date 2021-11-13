@@ -5,3 +5,4 @@
 1. Being able to steer a conversation in a direction you want to can be used, but also misused
 1. LEGO only allows for as much creativity as was designed into the bricks
 1. For every HMI, there exists one single "perfect" (exception: people with disabilities) solution
+1. Inspiration is the strongest motivation
