@@ -1,10 +1,11 @@
 ### I’m currently working on:
 - Configurator for surveillance camera streams
+- LED clock
 - 
 
 ### A list of things I want to do:
 - Sound direction detection
-- LED clock
+- PiTx
 - 
 
 ### Donate?
