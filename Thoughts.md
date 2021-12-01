@@ -8,3 +8,4 @@
 1. Inspiration is the strongest motivation
 1. Documentation, budget analysis and resource management can not steer the success of a project
 1. If you want to understand someone, you have to listen to them
+1. When you put all your eggs in one basket, make sure the handles are stable
