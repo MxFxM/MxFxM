@@ -9,3 +9,4 @@
 1. Documentation, budget analysis and resource management can not steer the success of a project
 1. If you want to understand someone, you have to listen to them
 1. When you put all your eggs in one basket, make sure the handles are stable
+1. We have a moral obligation to prevent losses for future generations, even if ithat comes at a cost to ourselfs
