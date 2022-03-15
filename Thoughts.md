@@ -13,3 +13,4 @@
 1. When you ask people to put one and one together, most will arrive at two, some entrepreneurs will tell you three, because they want more, but only the best will say 20, pursuing the goal of 10x
 1. You have to practice talking
 1. Creativity is a way for decision makeing
+1. If you don't have an innovation, you don't have a startup
