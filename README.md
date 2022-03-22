@@ -1,7 +1,4 @@
 ### I’m currently working on:
-- Configurator for surveillance camera streams
-- OpenCV Spaital AI Competition
-- LED pocket watch: https://github.com/MxFxM/LED-Pocket-Watch
 - 
 
 ### A list of things I want to do:
