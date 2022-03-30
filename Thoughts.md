@@ -16,3 +16,4 @@
 1. If you don't have an innovation, you don't have a startup
 1. Innovation is invention plus market success, but not necessarily profit
 1. The conditions of success in life are the possession of judgement, experience, initiative and character
+1. The more you speak, the more confidence you gain
