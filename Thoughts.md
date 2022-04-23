@@ -17,3 +17,4 @@
 1. Innovation is invention plus market success, but not necessarily profit
 1. The conditions of success in life are the possession of judgement, experience, initiative and character
 1. The more you speak, the more confidence you gain
+1. Large numbers, colorful graphics and arrows pointing upwards
