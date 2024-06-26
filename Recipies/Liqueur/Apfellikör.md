@@ -8,7 +8,7 @@ Für 1 Flasche Doppelkorn
 - 1 Schote Vanille
 - 1,5L (60) Apfelsaft
 - 250g (10%) Kandiszucker karamelisiert
-- 0,7L (30%) Doppelkorn 38% oder weiser Rum
+- 0,7L (30%) Doppelkorn 38% oder weiser Rum (Rum bevorzugt)
 
 ## Utensilien
 
